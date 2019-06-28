@@ -1,2 +1,2 @@
 # Sistem-Informasi-Geografi
-Project SIG
+Project SIG [UMS Nearby]
